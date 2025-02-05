@@ -1,0 +1,26 @@
+CONTACT MANAGEMENT SYSTEM - PYTHON
+
+
+- Alim Kouchiboyev
+
+A simple and efficient **Contact Management System** built using Python. This project allows users to store, update, delete, and search for contacts in a convenient way. It is designed to be a command-line application with a straightforward interface to manage contact information such as name, phone number, email, and address.
+
+## Features
+- **Add a new contact**: Store a contact with details like name, phone number, email, and address.
+- **Update existing contact**: Edit contact information.
+- **Delete a contact**: Remove contacts from the system.
+- **Search contacts**: Search for contacts based on names or other attributes.
+- **Display all contacts**: View all the stored contacts in the system.
+
+## Tech Stack
+- **Language**: Python
+- **Database**: SQLite (for storing contact data)
+- **Libraries/Tools**: 
+  - SQLite3 (for database interaction)
+  - Tkinter (optional, for GUI if desired)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/contact-management-system-python.git
+
